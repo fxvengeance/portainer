@@ -9,7 +9,7 @@ mkdir -p /etc/systemd/system/docker.service.d
 
 Create the file :
 
-nano /etc/systemd/system/docker.service.d/http-proxy.conf
+nano /etc/systemd/system/docker.service.d/proxy.conf
 
 Add the following line:
 
